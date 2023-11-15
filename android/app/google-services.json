@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "406157064347",
+    "firebase_url": "https://chofair-app-default-rtdb.firebaseio.com",
+    "project_id": "chofair-app",
+    "storage_bucket": "chofair-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406157064347:android:e23204381bb09375e6ae3e",
+        "android_client_info": {
+          "package_name": "com.thiago.chofairdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406157064347-0448aum4qfiip4u7mj3n16h8frkrajgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNy4XI5eRXv7WXPFlkx45p5SIfxvU6N5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406157064347-0448aum4qfiip4u7mj3n16h8frkrajgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
